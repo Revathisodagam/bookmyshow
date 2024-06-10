@@ -1,1 +1,3 @@
-this is a java file
+this is a java file 
+{
+}
